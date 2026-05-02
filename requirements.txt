@@ -7,4 +7,3 @@ scikit-learn==1.3.2
 joblib
 matplotlib
 Pillow
-opencv-python
